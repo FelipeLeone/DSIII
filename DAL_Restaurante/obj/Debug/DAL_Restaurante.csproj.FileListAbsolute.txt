@@ -1,0 +1,42 @@
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.pdb
+I:\3 MODULO\DS\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.dll
+I:\3 MODULO\DS\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+I:\3 MODULO\DS\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.dll
+I:\3 MODULO\DS\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+I:\3 MODULO\DS\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csprojResolveAssemblyReference.cache
+I:\3 MODULO\DS\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.dll
+I:\3 MODULO\DS\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.pdb
+G:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.dll
+G:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+G:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.dll
+G:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+G:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csprojResolveAssemblyReference.cache
+G:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.dll
+G:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.pdb
+L:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csprojResolveAssemblyReference.cache
+L:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.dll
+L:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.pdb
+L:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.dll
+L:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+L:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.dll
+L:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+E:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.dll
+E:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+E:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.dll
+E:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+E:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csprojResolveAssemblyReference.cache
+E:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.dll
+E:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.pdb
+M:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.dll
+M:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+M:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.dll
+M:\3sem\DS_III\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+M:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csprojResolveAssemblyReference.cache
+M:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.dll
+M:\3sem\DS_III\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.pdb
